@@ -1,0 +1,1 @@
+print("INi adlah bahasa pemrograman python")
