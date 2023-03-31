@@ -1,1 +1,2 @@
-print("INi adlah bahasa pemrograman python dari branch main")
+print("INi adlah bahasa pemrograman python berasal dari fitur A")
+
